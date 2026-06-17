@@ -156,6 +156,13 @@ You're welcome to add your own in a pull request – please ensure your country 
 
 <p>&nbsp;</p>
 
+### Post WWDC Events
+Now that the big week week is over, there’s a lot to discuss from what was announced. Apple, and the community, are continuing to host events around the world to keep the energy going.
+
+#### Apple-hosted events
+
+#### Community-hosted events, by country
+
 ### Course discounts
 
 Save money with these discounts on Swift learning material:
