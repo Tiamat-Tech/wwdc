@@ -203,6 +203,7 @@ Online events
 - July 2nd-3rd: [/dev/world on tour](https://ontour.devworld.au/index.php), Sydney, Australia
 
 🇨🇦 Canada
+- June 14th: [Core Coffee – Post-WWDC In-Person Edition ☕️](https://luma.com/j24hiaxs), Vancouver, Canada
 - July 28th: [Tacow July Meetup](https://luma.com/9olvx72d), Toronto, Canada
 
 🇮🇳 India
