@@ -161,6 +161,38 @@ Now that the big week week is over, there’s a lot to discuss from what was ann
 
 #### Apple-hosted events
 
+- 🇧🇷 June 23rd, 2:00pm-5:00pm GMT-3: Apple São Paulo, Brazilian Portuguese
+- 🇸🇬 June 23rd, 2:00pm-6:00pm GMT+8: Apple Developer Center Singapore, English
+- 🇬🇧 June 23rd, 9:00am-7:00pm GMT+1: Workshop: Implement the latest technologies from WWDC26 at Barbican Centre, London, English
+- 🇬🇧 June 24th, 9:00am-6:00pm GMT+1: Apple London (1 Bank Street), English
+- 🇧🇷 June 25th, 9:00am-12:00pm GMT-3: Apple Developer Academy | PUC-RS, Brazilian Portuguese
+- 🇰🇷 June 26th, 12:00pm-6:00pm GMT+9: Seoul, Korean
+- 🇮🇳 June 30th, 9:00am-5:00pm GMT+5:30: Apple Developer Center Bengaluru, English
+- 🇩🇪 June 30th, 9:00am-7:00pm GMT+2: Apple Berlin, English
+- 🇯🇵 June 30th, 5:30pm-8:30pm GMT+9: Apple Japan, Japanese
+- 🇺🇸 July 1st, 2:00pm-5:00pm EDT: Apple Miami, English
+- 🇯🇵 July 2nd, 5:30pm-8:00pm GMT+9: WeWork Midosuji Frontier, Osaka, Japanese
+- 🇮🇳 July 3rd, 9:00am-1:00pm GMT+5:30: Radisson Blu Plaza, Delhi Airport, English
+- 🇮🇳 July 3rd, 2:00pm-6:00pm GMT+5:30: Radisson Blu Plaza, Delhi Airport, English
+- 🇮🇩 July 7th, 2:00pm-6:00pm GMT+7: Apple Developer Academy, Jakarta, English
+- 🇨🇦 July 7th, 2:00pm-5:00pm EDT: Apple Toronto, English
+- 🇮🇳 July 9th, 9:00am-1:00pm GMT+5:30: Apple Developer Center Bengaluru, English
+- 🇨🇦 July 9th, 2:00pm-5:00pm EDT: Apple Montreal, English
+- 🇲🇾 July 9th, 2:00pm-6:00pm GMT+8: Hyatt Regency Kuala Lumpur Midtown, Kuala Lumpur, English
+- 🇲🇽 July 14th, 2:00pm-5:00pm CDT: Apple Mexico City, Spanish
+- 🇺🇸 July 14th, 10:00am-12:00pm EDT: New York City, English
+- 🇲🇽 July 16th, 2:00pm-5:00pm CST: Tec de Monterrey University, Spanish
+- 🇨🇦 July 21st, 2:00pm-5:00pm PDT: Apple Vancouver, English
+- 🇺🇸 July 23rd, 10:00am-4:00pm PDT: Apple Developer Center Cupertino, English
+- 🇨🇦 July 23rd, 12:30pm-3:00pm MDT: The Calgary Zoo, English
+
+Online events
+
+- 🌐 June 25th, 2:00pm-5:00pm GMT+5:30: London, English
+- 🌐 June 30th, 7:00am-2:30pm GMT+5:30: Shanghai, Simplified Chinese
+- 🌐 July 3rd, 9:30am-11:30am GMT+5:30: Seoul, Korean
+- 🌐 July 23rd-24th, 10:30pm-12:30am GMT+5:30: Apple Developer Center Cupertino, English
+
 #### Community-hosted events, by country
 
 ### Course discounts
