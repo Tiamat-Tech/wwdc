@@ -202,6 +202,9 @@ Online events
 🇨🇦 Canada
 - July 28th: [Tacow July Meetup](https://luma.com/9olvx72d), Toronto, Canada
 
+🇮🇳 India
+- June 20th: [What’s new at Google I/O and Apple WWDC](https://luma.com/eoy5m8v0), Mumbai, India
+
 🇯🇵 Japan
 - June 19th: [Recap of WWDC26](https://mercari.connpass.com/event/391605/), Tokyo, Japan
 - June 20th: [yidev: Yokohama Apple Developers Meetup](https://yidev4.connpass.com/event/391446/), Yokohama, Japan
