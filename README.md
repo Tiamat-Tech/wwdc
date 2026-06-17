@@ -160,6 +160,7 @@ You're welcome to add your own in a pull request – please ensure your country 
 Now that the big week week is over, there’s a lot to discuss from what was announced. Apple, and the community, are continuing to host events around the world to keep the energy going.
 
 #### Apple-hosted events
+Apple evangelists host annual WWDC recap sessions, _“Discover what’s next: The biggest updates from WWDC26,”_ to share tips for your apps and for you to meet developers in your region.
 
 - 🇧🇷 June 23rd, 2:00pm-5:00pm GMT-3: Apple São Paulo, Brazilian Portuguese
 - 🇸🇬 June 23rd, 2:00pm-6:00pm GMT+8: Apple Developer Center Singapore, English
