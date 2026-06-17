@@ -162,27 +162,27 @@ Now that the big week week is over, there’s a lot to discuss from what was ann
 #### Apple-hosted events
 Apple evangelists host annual WWDC recap sessions, _“Discover what’s next: The biggest updates from WWDC26,”_ to share tips for your apps and for you to meet developers in your region.
 
-- 🇧🇷 June 23rd, 2:00pm-5:00pm GMT-3: Apple São Paulo, Brazilian Portuguese
-- 🇧🇷 June 25th, 9:00am-12:00pm GMT-3: Apple Developer Academy | PUC-RS, Brazilian Portuguese
+- 🇧🇷 June 23rd, 2:00pm-5:00pm BRT: Apple São Paulo, Brazilian Portuguese
+- 🇧🇷 June 25th, 9:00am-12:00pm BRT: Apple Developer Academy | PUC-RS, Brazilian Portuguese
 - 🇨🇦 July 7th, 2:00pm-5:00pm EDT: Apple Toronto, English
 - 🇨🇦 July 9th, 2:00pm-5:00pm EDT: Apple Montreal, English
 - 🇨🇦 July 21st, 2:00pm-5:00pm PDT: Apple Vancouver, English
 - 🇨🇦 July 23rd, 12:30pm-3:00pm MDT: The Calgary Zoo, English
-- 🇩🇪 June 30th, 9:00am-7:00pm GMT+2: Apple Berlin, English
-- 🇬🇧 June 23rd, 9:00am-7:00pm GMT+1: Workshop: Implement the latest technologies from WWDC26 at Barbican Centre, London, English
-- 🇬🇧 June 24th, 9:00am-6:00pm GMT+1: Apple London (1 Bank Street), English
-- 🇮🇩 July 7th, 2:00pm-6:00pm GMT+7: Apple Developer Academy, Jakarta, English
-- 🇮🇳 June 30th, 9:00am-5:00pm GMT+5:30: Apple Developer Center Bengaluru, English
-- 🇮🇳 July 3rd, 9:00am-1:00pm GMT+5:30: Radisson Blu Plaza, Delhi Airport, English
-- 🇮🇳 July 3rd, 2:00pm-6:00pm GMT+5:30: Radisson Blu Plaza, Delhi Airport, English
-- 🇮🇳 July 9th, 9:00am-1:00pm GMT+5:30: Apple Developer Center Bengaluru, English
-- 🇯🇵 June 30th, 5:30pm-8:30pm GMT+9: Apple Japan, Japanese
-- 🇯🇵 July 2nd, 5:30pm-8:00pm GMT+9: WeWork Midosuji Frontier, Osaka, Japanese
-- 🇰🇷 June 26th, 12:00pm-6:00pm GMT+9: Seoul, Korean
-- 🇲🇾 July 9th, 2:00pm-6:00pm GMT+8: Hyatt Regency Kuala Lumpur Midtown, Kuala Lumpur, English
+- 🇩🇪 June 30th, 9:00am-7:00pm CEST: Apple Berlin, English
+- 🇬🇧 June 23rd, 9:00am-7:00pm BST: Workshop: Implement the latest technologies from WWDC26 at Barbican Centre, London, English
+- 🇬🇧 June 24th, 9:00am-6:00pm BST: Apple London (1 Bank Street), English
+- 🇮🇩 July 7th, 2:00pm-6:00pm WIB: Apple Developer Academy, Jakarta, English
+- 🇮🇳 June 30th, 9:00am-5:00pm IST: Apple Developer Center Bengaluru, English
+- 🇮🇳 July 3rd, 9:00am-1:00pm IST: Radisson Blu Plaza, Delhi Airport, English
+- 🇮🇳 July 3rd, 2:00pm-6:00pm IST: Radisson Blu Plaza, Delhi Airport, English
+- 🇮🇳 July 9th, 9:00am-1:00pm IST: Apple Developer Center Bengaluru, English
+- 🇯🇵 June 30th, 5:30pm-8:30pm JST: Apple Japan, Japanese
+- 🇯🇵 July 2nd, 5:30pm-8:00pm JST: WeWork Midosuji Frontier, Osaka, Japanese
+- 🇰🇷 June 26th, 12:00pm-6:00pm KST: Seoul, Korean
+- 🇲🇾 July 9th, 2:00pm-6:00pm MYT: Hyatt Regency Kuala Lumpur Midtown, Kuala Lumpur, English
 - 🇲🇽 July 14th, 2:00pm-5:00pm CDT: Apple Mexico City, Spanish
 - 🇲🇽 July 16th, 2:00pm-5:00pm CST: Tec de Monterrey University, Spanish
-- 🇸🇬 June 23rd, 2:00pm-6:00pm GMT+8: Apple Developer Center Singapore, English
+- 🇸🇬 June 23rd, 2:00pm-6:00pm SGT: Apple Developer Center Singapore, English
 - 🇺🇸 July 1st, 2:00pm-5:00pm EDT: Apple Miami, English
 - 🇺🇸 July 14th, 10:00am-12:00pm EDT: New York City, English
 - 🇺🇸 July 23rd, 10:00am-4:00pm PDT: Apple Developer Center Cupertino, English
