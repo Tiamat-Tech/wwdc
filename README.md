@@ -228,6 +228,9 @@ Online events
 🇦🇪 United Arab Emirates
 - June 20th: [WWDC26 Unpacked](https://luma.com/vp473z2r), Dubai, United Arab Emirates
 
+🇺🇸 United States
+- June 18th: [Siri AI Automators meetup (Portland)](https://luma.com/z6gbu7tb), Portland, OR, United States
+
 ### Course discounts
 
 Save money with these discounts on Swift learning material:
