@@ -196,6 +196,9 @@ Online events
 
 #### Community-hosted events, by country
 
+🌐 Online
+- June 20th: [WWDC 2026 Recap and Discussion](https://luma.com/fuk5151s), Online
+
 🇦🇺 Australia
 - July 2nd-3rd: [/dev/world on tour](https://ontour.devworld.au/index.php), Sydney, Australia
 
