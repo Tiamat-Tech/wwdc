@@ -156,10 +156,10 @@ You're welcome to add your own in a pull request – please ensure your country 
 
 <p>&nbsp;</p>
 
-### Post WWDC Events
+## Post WWDC Events
 Now that the big week week is over, there’s a lot to discuss from what was announced. Apple, and the community, are continuing to host events around the world to keep the energy going.
 
-#### Apple-hosted events
+### Apple-hosted events
 Apple evangelists host annual WWDC recap sessions, _“Discover what’s next: The biggest updates from WWDC26,”_ to share tips for your apps and for you to meet developers in your region.
 
 - 🇧🇷 June 23rd, 2:00pm-5:00pm BRT: Apple São Paulo, Brazilian Portuguese
@@ -191,7 +191,7 @@ Apple evangelists host annual WWDC recap sessions, _“Discover what’s next: T
 - 🌐 July 3rd, 1:00pm-3:00pm KST: Seoul, Korean
 - 🌐 July 23rd, 10:00am-11:59pm PDT and July 24th, 12:00am-1:59am PDT: Apple Developer Center Cupertino, English
 
-#### Community-hosted events, by country
+### Community-hosted events, by country
 
 🌐 Online
 - June 20th: [WWDC 2026 Recap and Discussion](https://luma.com/fuk5151s), Online
