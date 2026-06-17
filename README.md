@@ -233,6 +233,7 @@ Online events
 - June 20th: [WWDC26 Unpacked](https://luma.com/vp473z2r), Dubai, United Arab Emirates
 
 🇺🇸 United States
+- June 16th: [CocoaHeads x Swift Language User Group (SLUG) | June 16th | San Francisco | at Sentry HQ](https://luma.com/pdrj5h10), San Francisco, CA, United States
 - June 18th: [Siri AI Automators meetup (Portland)](https://luma.com/z6gbu7tb), Portland, OR, United States
 
 ### Course discounts
