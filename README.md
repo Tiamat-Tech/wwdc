@@ -189,10 +189,10 @@ Apple evangelists host annual WWDC recap sessions, _“Discover what’s next: T
 
 Online events
 
-- 🌐 June 25th, 2:00pm-5:00pm GMT+5:30: London, English
-- 🌐 June 30th, 7:00am-2:30pm GMT+5:30: Shanghai, Simplified Chinese
-- 🌐 July 3rd, 9:30am-11:30am GMT+5:30: Seoul, Korean
-- 🌐 July 23rd-24th, 10:30pm-12:30am GMT+5:30: Apple Developer Center Cupertino, English
+- 🌐 June 25th, 9:30am-12:30pm BST: London, English
+- 🌐 June 30th, 9:30am-5:00pm CST: Shanghai, Simplified Chinese
+- 🌐 July 3rd, 1:00pm-3:00pm KST: Seoul, Korean
+- 🌐 July 23rd, 10:00am-11:59pm PDT and July 24th, 12:00am-1:59am PDT: Apple Developer Center Cupertino, English
 
 #### Community-hosted events, by country
 
