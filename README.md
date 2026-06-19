@@ -156,6 +156,49 @@ You're welcome to add your own in a pull request – please ensure your country 
 
 <p>&nbsp;</p>
 
+## Post WWDC Events
+Now that the big week is over, there’s a lot to discuss from what was announced. The community is continuing to host events around the world to keep the energy going.
+
+🌐 Online
+- June 20th: [WWDC 2026 Recap and Discussion](https://luma.com/fuk5151s), Online
+
+🇦🇺 Australia
+- July 2nd-3rd: [/dev/world on tour](https://ontour.devworld.au/index.php), Sydney, Australia
+
+🇨🇦 Canada
+- June 14th: [Core Coffee – Post-WWDC In-Person Edition ☕️](https://luma.com/j24hiaxs), Vancouver, Canada
+- July 28th: [Tacow July Meetup](https://luma.com/9olvx72d), Toronto, Canada
+
+🇮🇳 India
+- June 20th: [What’s new at Google I/O and Apple WWDC](https://luma.com/eoy5m8v0), Mumbai, India
+
+🇯🇵 Japan
+- June 19th: [Recap of WWDC26](https://mercari.connpass.com/event/391605/), Tokyo, Japan
+- June 20th: [yidev: Yokohama Apple Developers Meetup](https://yidev4.connpass.com/event/391446/), Yokohama, Japan
+- June 26th: [Swift Lovers Club - WWDC26 Recap](https://love-swift.connpass.com/event/390480/), Shibuya, Japan
+- June 28th: [Swift Kansai - iOS and macOS Developer Meetup (WWDC Edition)](https://www.meetup.com/swift-kansai/events/314573983/), Osaka, Japan
+- July 12th: [WWDC Recap for Swift Students](https://swiftstudents.jp/en/events/wwdc-recap-2026), Roppongi Hills, Japan
+- July 18th: [WWDC26 Recap - Japan-\\(region).swift](https://luma.com/x230s9i1), Multiple Cities, Japan
+
+🇳🇬 Nigeria
+- June 20th: [WWDC 2026 Lagos Hangout](https://luma.com/jrtha1q8), Ikeja, Nigeria
+
+🇸🇬 Singapore
+- June 23rd: [iOS Dev Scout Beyond WWDC 2026](https://luma.com/vfmlqe1i), Singapore
+
+🇰🇷 South Korea
+- June 20th: [After Tech Club: vol 1. WWDC26 Recap](https://ticketa.co/event/qihrrgnk/l/5F8JZoN6?utm_source=da), Seoul, South Korea
+
+🇱🇰 Sri Lanka
+- June 18th: [Swift Sri Lanka Meetup - Beyond WWDC](https://www.meetup.com/swift-sri-lanka/events/314936926/), Colombo, Sri Lanka
+
+🇦🇪 United Arab Emirates
+- June 20th: [WWDC26 Unpacked](https://luma.com/vp473z2r), Dubai, United Arab Emirates
+
+🇺🇸 United States
+- June 16th: [CocoaHeads x Swift Language User Group (SLUG) | June 16th | San Francisco | at Sentry HQ](https://luma.com/pdrj5h10), San Francisco, CA, United States
+- June 18th: [Siri AI Automators meetup (Portland)](https://luma.com/z6gbu7tb), Portland, OR, United States
+
 ### Course discounts
 
 Save money with these discounts on Swift learning material:
