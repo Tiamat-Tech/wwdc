@@ -160,7 +160,7 @@ You're welcome to add your own in a pull request – please ensure your country 
 Now that the big week is over, there’s a lot to discuss from what was announced. The community is continuing to host events around the world to keep the energy going.
 
 🌐 Online
-- June 20th: [WWDC 2026 Recap and Discussion](https://luma.com/fuk5151s), Online
+- June 20th: [WWDC 2026 Recap and Discussion](https://luma.com/fuk5151s)
 
 🇦🇺 Australia
 - July 2nd-3rd: [/dev/world on tour](https://ontour.devworld.au/index.php), Sydney, Australia
