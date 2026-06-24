@@ -161,6 +161,7 @@ Now that the big week is over, there’s a lot to discuss from what was announce
 
 🌐 Online
 - June 20th: [WWDC 2026 Recap and Discussion](https://luma.com/fuk5151s)
+- June 24th: [Talking visionOS 27 with Justin Ryan + Q&A](https://auratap.app/event/aov-fkdh-xig), Spatial
 - June 27th: [Community Event - Recap WWDC 26 with Step Into Vision](https://stepinto.vision/event/community-event-recap-wwdc-26-with-step-into-vision/)
 
 🇦🇺 Australia
