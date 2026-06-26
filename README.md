@@ -182,6 +182,7 @@ Now that the big week is over, there’s a lot to discuss from what was announce
 - June 28th: [Swift Kansai - iOS and macOS Developer Meetup (WWDC Edition)](https://www.meetup.com/swift-kansai/events/314573983/), Osaka, Japan
 - July 12th: [WWDC Recap for Swift Students](https://swiftstudents.jp/en/events/wwdc-recap-2026), Roppongi Hills, Japan
 - July 18th: [WWDC26 Recap - Japan-\\(region).swift](https://luma.com/x230s9i1), Multiple Cities, Japan
+- July 22nd: [try! Swift Tokyo WWDC Recap 2026](https://luma.com/tryswift-wwdc26), Minato City, Japan
 
 🇳🇬 Nigeria
 - June 20th: [WWDC 2026 Lagos Hangout](https://luma.com/jrtha1q8), Ikeja, Nigeria
